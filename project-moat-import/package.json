@@ -1,0 +1,12 @@
+{
+  "name": "project-moat",
+  "version": "0.1.0",
+  "description": "PROJECT MOAT - Personal AI Chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
